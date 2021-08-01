@@ -1,0 +1,28 @@
+body{
+    height: 120vh; 
+}
+
+/* body::before {
+    background-image: url("./blogimage.jpg");
+    content: "";
+    position: absolute;
+    top: 1rem;
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    opacity: 0.2;
+} */
+
+.page-footer{
+    position: absolute;
+    bottom: 0;
+}
+
+.card {
+    border: 2px solid crimson;
+    padding: 1rem;
+    z-index: 10;
+    position: relative;
+}
+
+

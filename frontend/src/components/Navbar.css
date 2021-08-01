@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar.navbar-default{
+    background: crimson;
+}
+
+.nav.navbar-nav > li > a{
+    color: wheat;
+}
+
